@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import "./index.scss";
 
-function App() {
+const App = () => {
 
   function theGame() {
     let guess = prompt("Guess a number between 1 - 10 🤓");
