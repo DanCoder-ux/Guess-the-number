@@ -16,4 +16,4 @@ $ npm run dev
 
 <hr />
 
-check out [Vite](https://vitejs.dev/guide/) for more doc.
+check out [Vitejs.dev](https://vitejs.dev/guide/) for more doc.
