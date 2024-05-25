@@ -1,12 +1,12 @@
 <h1 align="center">Guess-the-number</h1>
 
-###### install dependencies
+> install dependencies
 
 ```
 $ npm i
 ```
 
-###### run
+> run
 
 ```
 $ npm run dev
