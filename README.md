@@ -1,6 +1,4 @@
-# Guess-the-number
-
-## Usage
+<h1 align="center">Guess-the-number</h1>
 
 ###### install dependencies
 
